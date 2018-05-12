@@ -1,0 +1,47 @@
+_repo: The-Duke-Of-Chimney-Butte_29748
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ivory, P. V. E.
+    aliases:
+    - Ivory, P. V. E. (Percy van Eman)
+    - Ivory, P. Van E.
+    - Ivory, P.V.E.
+    - Ivory, Percy Van Eman
+    birthdate: 1883
+    deathdate: 1960
+    gutenberg_agent_id: '32357'
+    url: http://www.gutenberg.org/2009/agents/32357
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ogden, George W. (George Washington)
+    aliases:
+    - Ogden, George Washington
+    - Ogden, G. W. (George Washington)
+    birthdate: 1871
+    deathdate: 1966
+    gutenberg_agent_id: '9477'
+    url: http://www.gutenberg.org/2009/agents/9477
+description: When Jerry Lambert, ""the Duke, "" attempts to safeguard the cattle ranch
+  of Vesta Philbrook from thieving neighbors, his work is appallingly handicapped
+  because of Grace Kerr, one of the chief agitators, and a deadly enemy of Vesta's.
+  A stirring tale of brave deeds, gun-play and a love that shines above all.
+gutenberg_issued: '2009-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Badlands (S.D. and Neb.) -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Fiction'
+title: The Duke Of Chimney Butte
+url: http://www.gutenberg.org/ebooks/29748
